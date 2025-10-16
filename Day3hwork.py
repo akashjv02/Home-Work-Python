@@ -31,4 +31,4 @@ print(is_true_login)
 access_result = is_logged_in or (is_subscribed and False)
 print(access_result)
 
-print( is_logged_in, is_subscribed, credits_valid, bonus_eligible, user_credits, power_result, full_access, is_true_login, access_result)
+print(is_logged_in, is_subscribed, credits_valid, bonus_eligible, user_credits, power_result, full_access, is_true_login, access_result)
