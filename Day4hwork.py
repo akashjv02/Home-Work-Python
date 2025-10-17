@@ -39,6 +39,3 @@ if "Asha" in ui_ux:
     
 workshop_tuple = (web_development[0], new_data_science[0], ui_ux[0])
 print(workshop_tuple)
-
-  
-
